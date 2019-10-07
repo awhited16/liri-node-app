@@ -1,0 +1,20 @@
+{
+  "name": "LIRIBot",
+  "version": "1.0.0",
+  "description": "This app allows the user to search band data\r This app uses",
+  "main": "key.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/awhited16/LIRIBot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/awhited16/LIRIBot/issues"
+  },
+  "homepage": "https://github.com/awhited16/LIRIBot#readme"
+}
