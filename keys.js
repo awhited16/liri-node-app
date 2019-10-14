@@ -6,5 +6,5 @@ exports.spotify = {
 };
 
 exports.OMDB = {
-    apiKey: dbb5f00e
+    apiKey: "dbb5f00e"
 }
